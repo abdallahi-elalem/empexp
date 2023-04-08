@@ -1,4 +1,4 @@
-package com.example.emp;
+package com.example.pfe-khlil;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
